@@ -87,44 +87,9 @@
 </div>
 
 ---
-
+![snake](https://raw.githubusercontent.com/Bhardwajjyash/Bhardwajjyash/output/github-contribution-grid-snake-dark.svg)
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-> **⚙️ To activate the snake animation, add this GitHub Action to your profile repo:**
->
-> Create `.github/workflows/snake.yml` and paste:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Bhardwajjyash
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> Then replace the block below with:
-> `![snake](https://raw.githubusercontent.com/Bhardwajjyash/Bhardwajjyash/output/github-contribution-grid-snake-dark.svg)`
-
-</div>
-
----
 
 <div align="center">
 
@@ -140,6 +105,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=80&section=footer&desc=%22Code%20is%20poetry%20written%20in%20logic.%22&descAlignY=55&descColor=444444&descSize=13"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=100&section=footer&text=%22Code%20is%20poetry%20written%20in%20logic.%22&fontSize=22&fontColor=00ff41&fontAlignY=35"/>
 
 </div>
