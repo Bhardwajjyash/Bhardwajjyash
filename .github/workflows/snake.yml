@@ -8,6 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # --- THIS IS THE NEW PART ---
+    permissions:
+      contents: write
+    # ----------------------------
+
     steps:
       - uses: Platane/snk@v3
         with:
