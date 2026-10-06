@@ -21,7 +21,7 @@
 <table width="100%" style="border: 1px solid #00ff41; background-color: #050505; border-radius: 4px;">
 <tr>
 <td style="padding: 15px;">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=4000&pause=1000&color=00FF41&width=800&height=90&lines=%3E+whoami;Yash+Bhardwaj+-+Software+Engineer;%3E+execute_mission.sh;Bridging+Full-Stack+Architecture+and+Intelligent+Visual+Systems;%3E+git+commit+-m+%22shipped+it+%F0%9F%9A%80%22;%3E+status;Ready+for+deployment." alt="Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=4000&pause=1000&color=00FF41&width=800&height=90&lines=%3E+whoami;Yash+Bhardwaj+-+Full+Stack+%26+Computer+Vision;%3E+npx+bhardwajjyash;Loading+interactive+portfolio+%26+resume..." alt="Terminal" />
 </td>
 </tr>
 </table>
